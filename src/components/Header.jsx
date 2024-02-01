@@ -24,50 +24,50 @@ function Header() {
                 className="absolute right-4 top-full hidden w-full max-w-[250px] rounded-lg bg-white py-5 shadow-lg dark:bg-dark-2 lg:static lg:block lg:w-full lg:max-w-full lg:bg-transparent lg:px-4 lg:py-0 lg:shadow-none dark:lg:bg-transparent xl:px-6"
               >
                 <ul className="blcok lg:flex 2xl:ml-20">
-                  <li className="group relative">
+                  <li className="group relative mx-8 xl:ml-10 lg:ml-7 lg:mr-0">
                     <a
                       href="#"
-                      className="ud-menu-scroll mx-8 flex py-2 text-base font-medium text-dark group-hover:text-primary dark:text-white lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70"
+                      className="ud-menu-scroll  flex py-2 text-base font-medium text-dark group-hover:text-primary dark:text-white  lg:inline-flex lg:px-0 lg:py-6 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 "
                     >
                       Home
                     </a>
                   </li>
-                  <li className="group relative">
+                  <li className="group relative mx-8 xl:ml-10 lg:ml-7 lg:mr-0 mx-8 xl:ml-10 lg:ml-7 lg:mr-0">
                     <a
                       href="#about"
-                      className="ud-menu-scroll mx-8 flex py-2 text-base font-medium text-dark group-hover:text-primary dark:text-white lg:ml-7 lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 xl:ml-10"
+                      className="ud-menu-scroll  flex py-2 text-base font-medium text-dark group-hover:text-primary dark:text-white  lg:inline-flex lg:px-0 lg:py-6 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 "
                     >
                       About
                     </a>
                   </li>
-                  <li className="group relative">
+                  <li className="group relative mx-8 xl:ml-10 lg:ml-7 lg:mr-0">
                     <a
                       href="#pricing"
-                      className="ud-menu-scroll mx-8 flex py-2 text-base font-medium text-dark group-hover:text-primary dark:text-white lg:ml-7 lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 xl:ml-10"
+                      className="ud-menu-scroll  flex py-2 text-base font-medium text-dark group-hover:text-primary dark:text-white  lg:inline-flex lg:px-0 lg:py-6 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 "
                     >
                       Pricing
                     </a>
                   </li>
-                  <li className="group relative">
+                  <li className="group relative mx-8 xl:ml-10 lg:ml-7 lg:mr-0">
                     <a
                       href="#team"
-                      className="ud-menu-scroll mx-8 flex py-2 text-base font-medium text-dark group-hover:text-primary dark:text-white lg:ml-7 lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 xl:ml-10"
+                      className="ud-menu-scroll  flex py-2 text-base font-medium text-dark group-hover:text-primary dark:text-white  lg:inline-flex lg:px-0 lg:py-6 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 "
                     >
                       Team
                     </a>
                   </li>
-                  <li className="group relative">
+                  <li className="group relative mx-8 xl:ml-10 lg:ml-7 lg:mr-0">
                     <a
                       href="#"
-                      className="ud-menu-scroll mx-8 flex py-2 text-base font-medium text-dark group-hover:text-primary dark:text-white lg:ml-7 lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 xl:ml-10"
+                      className="ud-menu-scroll  flex py-2 text-base font-medium text-dark group-hover:text-primary dark:text-white  lg:inline-flex lg:px-0 lg:py-6 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 "
                     >
                       Contact
                     </a>
                   </li>
-                  <li className="group relative">
+                  <li className="group relative mx-8 xl:ml-10 lg:ml-7 lg:mr-0">
                     <a
                       href="#"
-                      className="ud-menu-scroll mx-8 flex py-2 text-base font-medium text-dark group-hover:text-primary dark:text-white lg:ml-7 lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 xl:ml-10"
+                      className="ud-menu-scroll  flex py-2 text-base font-medium text-dark group-hover:text-primary dark:text-white  lg:inline-flex lg:px-0 lg:py-6 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 "
                     >
                       Blog
                     </a>
