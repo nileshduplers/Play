@@ -45,7 +45,7 @@ function Features() {
                 Lorem Ipsum is simply dummy text of the printing and industry.
               </p>
               <a
-                href="javascript:void(0)"
+                href="#"
                 className="text-base font-medium text-dark hover:text-primary dark:text-white dark:hover:text-primary"
               >
                 Learn More
@@ -76,7 +76,7 @@ function Features() {
                 Lorem Ipsum is simply dummy text of the printing and industry.
               </p>
               <a
-                href="javascript:void(0)"
+                href="#"
                 className="text-base font-medium text-dark hover:text-primary dark:text-white dark:hover:text-primary"
               >
                 Learn More
@@ -139,7 +139,7 @@ function Features() {
                 Lorem Ipsum is simply dummy text of the printing and industry.
               </p>
               <a
-                href="javascript:void(0)"
+                href="#"
                 className="text-base font-medium text-dark hover:text-primary dark:text-white dark:hover:text-primary"
               >
                 Learn More
@@ -182,7 +182,7 @@ function Features() {
                 Lorem Ipsum is simply dummy text of the printing and industry.
               </p>
               <a
-                href="javascript:void(0)"
+                href="#"
                 className="text-base font-medium text-dark hover:text-primary dark:text-white dark:hover:text-primary"
               >
                 Learn More
