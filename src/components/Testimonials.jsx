@@ -53,7 +53,11 @@ function Testimonials() {
       id="testimonials"
       className="overflow-hidden bg-gray-1 py-20 dark:bg-dark-2 md:py-[120px]"
     >
-      <div className="container mx-auto">
+      <div
+        className="container mx-auto"
+        data-aos="fade-up"
+        data-aos-delay="500"
+      >
         <div className="-mx-4 flex flex-wrap justify-center">
           <div className="w-full px-4">
             <div className="mx-auto mb-[60px] max-w-[485px] text-center">

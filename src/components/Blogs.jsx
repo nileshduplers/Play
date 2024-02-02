@@ -4,7 +4,11 @@ import Data from "../Data/blog";
 function Blogs() {
   return (
     <section className="bg-white pb-10 pt-20 dark:bg-dark lg:pb-20 lg:pt-[120px]">
-      <div className="container mx-auto">
+      <div
+        className="container mx-auto"
+        data-aos="fade-up"
+        data-aos-delay="500"
+      >
         <div className="-mx-4 flex flex-wrap justify-center">
           <div className="w-full px-4">
             <div className="mx-auto mb-[60px] max-w-[485px] text-center">

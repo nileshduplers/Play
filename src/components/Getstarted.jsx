@@ -4,7 +4,11 @@ function Getstarted() {
   return (
     <section className="relative z-10 overflow-hidden bg-primary py-20 lg:py-[115px]">
       <div className="container mx-auto">
-        <div className="relative overflow-hidden">
+        <div
+          className="relative overflow-hidden"
+          data-aos="fade-up"
+          data-aos-delay="500"
+        >
           <div className="-mx-4 flex flex-wrap items-stretch">
             <div className="w-full px-4">
               <div className="mx-auto max-w-[570px] text-center">

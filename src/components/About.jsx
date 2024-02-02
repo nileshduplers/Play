@@ -7,7 +7,11 @@ function About() {
       <div className="container">
         <div className="wow fadeInUp" data-wow-delay=".2s">
           <div className="-mx-4 flex flex-wrap items-center">
-            <div className="w-full px-4 lg:w-1/2">
+            <div
+              className="w-full px-4 lg:w-1/2"
+              data-aos="fade-up"
+              data-aos-delay="600"
+            >
               <div className="mb-12 max-w-[540px] lg:mb-0">
                 <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
                   Brilliant Toolkit to Build Nextgen Website Faster.
@@ -33,7 +37,11 @@ function About() {
               </div>
             </div>
 
-            <div className="w-full px-4 lg:w-1/2">
+            <div
+              className="w-full px-4 lg:w-1/2"
+              data-aos="fade-up"
+              data-aos-delay="800"
+            >
               <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
                 <div className="w-full px-2 sm:w-1/2 sm:px-4 lg:px-2 xl:px-4">
                   <div className="mb-4 sm:mb-8 sm:h-[400px] md:h-[540px] lg:h-[400px] xl:h-[500px]">
