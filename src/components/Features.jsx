@@ -3,14 +3,10 @@ import React from "react";
 function Features() {
   return (
     <section className="pb-8 pt-20 dark:bg-dark lg:pb-[70px] lg:pt-[120px]">
-      <div className="container">
+      <div className="container" data-aos="fade-up" data-aos-delay="400">
         <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4">
-            <div
-              data-aos="fade-up"
-              data-aos-delay="300"
-              className="mx-auto mb-12 max-w-[485px] text-center lg:mb-[70px]"
-            >
+            <div className="mx-auto mb-12 max-w-[485px] text-center lg:mb-[70px]">
               <span className="mb-2 block text-lg font-semibold text-primary">
                 Features
               </span>
@@ -24,11 +20,7 @@ function Features() {
             </div>
           </div>
         </div>
-        <div
-          className="-mx-4 flex flex-wrap"
-          data-aos="fade-up"
-          data-aos-delay="500"
-        >
+        <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4 md:w-1/2 lg:w-1/4">
             <div className=" group mb-12">
               <div className="relative z-10 mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-[14px] bg-primary">

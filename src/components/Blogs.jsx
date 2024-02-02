@@ -7,7 +7,7 @@ function Blogs() {
       <div
         className="container mx-auto"
         data-aos="fade-up"
-        data-aos-delay="500"
+        data-aos-delay="1000"
       >
         <div className="-mx-4 flex flex-wrap justify-center">
           <div className="w-full px-4">
